@@ -257,7 +257,28 @@ body {
   width: 80%;
 }
 
+.attribution {
+  position: absolute;
+  bottom: 25px;
+  font-size: 15px;
+  text-align: center;
+}
+.social{
+  display: flex;
+justify-content: center;
+gap: 20px;
+font-size: 20px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.attribution a:hover{
+  color: #000;
+}
+
 @media (max-width: 765px) {
+
   .container {
     margin-top: 80px;
     width: 300px;
@@ -290,7 +311,7 @@ body {
     font-size: 25px;
   }
 
-  .weather-details  {
+  .weather-details {
     gap: 10px;
   }
   .weather-details i {
@@ -306,5 +327,9 @@ body {
   .weather-details .text {
     margin-left: 10px;
     font-size: 12px;
+  }
+
+  .attribution {
+    bottom: 270px;
   }
 }
