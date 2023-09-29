@@ -29,9 +29,9 @@ A simple weather app that allows users to check the weather for a given location
 - Click the location button to get weather information based on your current location.
 
 ## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![WeatherWebApp S-1](https://github.com/mrpp2001/WeatherWebApp-DOTIX/assets/77163888/1f953015-a220-4000-af31-1dfecd26d454)
+![WeatherWebApp S-2](https://github.com/mrpp2001/WeatherWebApp-DOTIX/assets/77163888/16c4cdb3-8c96-4f2f-abce-914c27efcab5)
+![WeatherWebApp S-3](https://github.com/mrpp2001/WeatherWebApp-DOTIX/assets/77163888/d3e67ef7-1ae8-4928-9cb1-ea289f948258)
 
 ## Credits
 
