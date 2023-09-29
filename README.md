@@ -1,5 +1,3 @@
-# WeatherWebApp-DOTIX
-
 # Weather App
 
 A simple weather app that allows users to check the weather for a given location.
