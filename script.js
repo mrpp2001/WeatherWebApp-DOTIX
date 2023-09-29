@@ -93,6 +93,7 @@ locationBtn.addEventListener("click", () => {
 const searchButton = document.getElementById("searchBtn");
 searchButton.addEventListener("click", () => {
   checkWeather(inputBox.value);
+   resetToggle();
 });
 
 
