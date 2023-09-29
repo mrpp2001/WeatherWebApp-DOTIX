@@ -37,6 +37,3 @@ A simple weather app that allows users to check the weather for a given location
 
 - Weather data is provided by [OpenWeatherMap](https://openweathermap.org/).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
