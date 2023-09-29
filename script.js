@@ -92,10 +92,12 @@ locationBtn.addEventListener("click", () => {
 // Rename the search button variable to avoid conflict
 const searchButton = document.getElementById("searchBtn");
 searchButton.addEventListener("click", () => {
-  checkWeather(inputBox.value);
-  resetToggle();
+  const inputLocation = inputBox.value.trim(); 
+  if (inputLocation !== "") {
+    checkWeather(inputLocation);
+    resetToggle();
+  }
 });
-
 
 // Function to reset the toggle to default position
 function resetToggle() {
